@@ -9,12 +9,7 @@ This is a simple AI-powered chatbot demo that can answer questions about careers
 - Predefined responses for demonstration purposes
 - Easy to extend with actual AI API integration
 
-## How to Use
 
-1. Open the `index.html` file in a web browser
-2. Type your question in the input field at the bottom
-3. Press Enter or click the Send button
-4. The chatbot will respond with relevant information based on your query
 
 ## Topics the Chatbot Can Discuss
 
@@ -45,7 +40,3 @@ This is a demonstration project with limited capabilities. The chatbot:
 - Does not maintain context across multiple messages
 - Has no memory of previous conversations
 
-For a full-featured chatbot, consider implementing a more robust solution using frameworks like:
-- OpenAI's GPT models
-- Google's Dialogflow
-- Rasa Open Source 
